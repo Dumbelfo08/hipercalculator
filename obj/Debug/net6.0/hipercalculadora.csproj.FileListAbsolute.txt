@@ -1,0 +1,15 @@
+C:\share\mierdas\hipercalculadora\bin\Debug\net6.0\hipercalculadora.exe
+C:\share\mierdas\hipercalculadora\bin\Debug\net6.0\hipercalculadora.deps.json
+C:\share\mierdas\hipercalculadora\bin\Debug\net6.0\hipercalculadora.runtimeconfig.json
+C:\share\mierdas\hipercalculadora\bin\Debug\net6.0\hipercalculadora.dll
+C:\share\mierdas\hipercalculadora\bin\Debug\net6.0\hipercalculadora.pdb
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.csproj.AssemblyReference.cache
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.AssemblyInfoInputs.cache
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.AssemblyInfo.cs
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.csproj.CoreCompileInputs.cache
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.dll
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\refint\hipercalculadora.dll
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.pdb
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\hipercalculadora.genruntimeconfig.cache
+C:\share\mierdas\hipercalculadora\obj\Debug\net6.0\ref\hipercalculadora.dll
